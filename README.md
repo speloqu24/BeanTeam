@@ -1,7 +1,7 @@
 # <span style="color:darkgreen"> **BeanTeam**</span>
 
   ## Application Description:
-  > *Have you considered a career in coding, but don’t know anything about how to code? Well, the Feed Your Bean application is the right virtual DOM for you! With this intuitive application, a user can get a taste of four of the major web development languages. Feed Your Bean allows quick access to videos regarding basic coding languages, with user authentication that stores selected categories in user profile.*
+  > *As a student enrolled in a coding boot camp I want to to be able to access coding education through video, on the go so that I can continue my learning journey outside of scheduled sessions.*
 
   ## Table of Contents:
 
@@ -23,11 +23,11 @@
 
   ## Questions:
   If you have questions, please reach out using the following link
-  >[GitHub Profile](http://github.com/Seth-Hulsmeyer)
+  >[GitHub Profile](http://github.com/speloqu24)
 
 
   ## Creator:
-  * <span style="color:green">**Name:**</span> Seth Hulsmeyer
-  * <span style="color:green">**GitHub Username:**</span> Seth-Hulsmeyer
-  * <span style="color:green">**Email:**</span> seth.hulsmeyer@hotmail.com
+  * <span style="color:green">**Name:**</span> Samantha Peloquin
+  * <span style="color:green">**GitHub Username:**</span> speloqu24
+  * <span style="color:green">**Email:**</span> speloqu24@gmail.com
 
